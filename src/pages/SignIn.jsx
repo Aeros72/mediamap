@@ -14,10 +14,10 @@ const SignIn = () => {
             <div className="contact">
               <form>
                 <div className="form-input mt-4">
-                  <input type="email"  placeholder='Enter your email'/>
+                  <input type="password"  placeholder='Enter your password'/>
                 </div>
                 <div className="form-input mt-4">
-                  <input type="password"  placeholder='Enter your password'/>
+                  <input type="email"  placeholder='Enter your email'/>
                 </div>
 
                 <button className='send-btn'>Sign In</button>
