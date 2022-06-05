@@ -11,7 +11,7 @@ const HeroSection = () => {
           <Row>
               <Col lg = '6' md = '6'>
                 <div className="hero-content">
-                    <h2>Save your time - Seach here online</h2>
+                    <h2>Save your time - Search here online</h2>
                     <p>
                         Watch, read and enjoy more of your favorite books or movies. 
                         Join Media Map, the greatest online community for people of 

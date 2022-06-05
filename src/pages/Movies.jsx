@@ -43,7 +43,7 @@ const Movies = () => {
           <Col lg = '12' className='mb-5'> 
               <div className='book-seach d-flex align-items-center'>
                 <i class="ri-search-2-line"></i>
-                <input className='seach' type="text" value={name} onChange={filter} placeholder="Search for titles.."/>
+                <input className='seach' type="text" value={name} onChange={filter} placeholder="Search for titles..."/>
               </div>
 
           </Col>
